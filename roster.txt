@@ -1,0 +1,12 @@
+GIT PRACTICE — CLASS ROSTER
+===========================
+RULES: Find YOUR number. Replace the ____ on your line only.
+Do not touch anyone else's line.
+
+Class motto: ____
+
+01 | Name: ____ | Favourite food: ____ | Fun fact: ____
+02 | Name: ____ | Favourite food: ____ | Fun fact: ____
+03 | Name: ____ | Favourite food: ____ | Fun fact: ____
+04 | Name: ____ | Favourite food: ____ | Fun fact: ____
+05 | Name: ____ | Favourite food: ____ | Fun fact: ____
